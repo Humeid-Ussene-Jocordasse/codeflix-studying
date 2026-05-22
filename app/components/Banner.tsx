@@ -16,7 +16,7 @@ export const Banner = () => (
       </div>
 
       <h1 className='text-2xl font-bold md:text-4xl lg:text-7xl xl:text-9xl'>
-        MAID
+        SHERIL
       </h1>
       <p className='max-w-xs text-xs text-shadow-md md:max-w-lg md:text-lg lg:max-w-2xl xl:text-2xl'>
         Geralt of Rivia, a solidary monster hunter, stuggles to find his place
